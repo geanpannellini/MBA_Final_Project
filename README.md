@@ -1,3 +1,7 @@
+
+[Download here](https://github.com/geanpannellini/MBA_final_project_repository/blob/main/PT%20-%20TCC%20DSA%202023%20-%20MBA%20USP%20%20ESALQ)
+
+
 # Performance of different data modeling approaches in modern storage architecture.
 ## Abstract
 
@@ -17,3 +21,7 @@ approach.
 
 `Keywords:` Data engineering; data modeling; performance; modern storage architecture;
 data queries
+
+Author: Gean Lucas Pannellini - Senior Data Engineer, BHub Services and Technology LTDA. 
+Advisor: Diego Pedroso dos Santos - Master in Control and Automation Engineering.
+*corresponding author: geanpanne@gmail.com
