@@ -1,4 +1,4 @@
--- Simple normalized query to simulation
+-- Simple normalized query for simulation
 -- Normalized
 EXPLAIN ANALYZE
 SELECT
