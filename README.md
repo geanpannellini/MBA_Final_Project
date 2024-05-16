@@ -1,7 +1,7 @@
 # Thesis: Performance of Different Data Modeling Approaches in Modern Storage Architecture
 
 [Download PDF, here](https://github.com/geanpannellini/MBA_final_project_repository/blob/main/PT%20-%20TCC%20DSA%202023%20-%20MBA%20USP%20%20ESALQ)
-(Please, don't forget to click on 'Download raw data')
+(Please, don't forget to click on 'View raw data')
 
 ## Abstract
 
