@@ -10,7 +10,7 @@
 **Keywords:** Data engineering, data modeling, performance, modern storage architecture, data queries
 
 **Author:** Gean Lucas Pannellini  
-Senior Data Engineer, BHub Services and Technology LTDA.
+Senior Data {Analytics, Engineer}, BHub Services and Technology LTDA.
 
 **Advisor:** Diego Pedroso dos Santos  
 Master in Control and Automation Engineering
